@@ -11,4 +11,3 @@ You should NOT try to redefine any of the above variables.
 let var1 = 2;
 let var2 = 31;
 let multiply = var1 * var2;
-
